@@ -1,0 +1,18 @@
+SMART ELECTRICITY BILL
+====================================
+Customer ID   : 111
+Customer Name : sri
+Billing Date  : 12-10-2026 21:40
+Units Used    : 234.00 kWh
+====================================
+Energy Charges: Rs. 536.00
+Fixed Charges : Rs. 50.00
+------------------------------------
+TOTAL BILL    : Rs. 586.00
+====================================
+CONSUMPTION ANALYSIS
+Status        : HIGH CONSUMPTION
+
+SMART SUGGESTION
+Use LED bulbs and energy-efficient appliances.
+====================================
